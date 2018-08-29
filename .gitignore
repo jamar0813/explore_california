@@ -1,0 +1,10 @@
+# A .gitingore file to prevernt tempfiles from being tracked 
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tours_*.mp4
