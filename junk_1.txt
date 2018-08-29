@@ -1,0 +1,37 @@
+commit 21a6b4727342409b2a38a0124fa138ae2090bbe3 (HEAD -> master)
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 18:14:22 2018 -0700
+
+    Revert "Removed all contractions from contact page"
+
+    This reverts commit 24a6f0683a704bce4f7b4133a426c2730aa94f91.
+
+commit aa50950fff5e8e75ce175aada6352631dd5508f2
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 17:57:03 2018 -0700
+
+    Rearrange the order of items to bring on an outdoor trip
+
+commit 24a6f0683a704bce4f7b4133a426c2730aa94f91
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 17:35:39 2018 -0700
+
+    Removed all contractions from contact page
+
+commit 6f2f65c334fac1c0ae41b8abfbfcb53a4e82a04e
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 17:35:07 2018 -0700
+
+    Change tours from backpack to backpack Cal
+
+commit 81e61968b46d9915816da80fb20c98e10425b041
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 17:19:03 2018 -0700
+
+    Changed the 24hour support number to 4314
+
+commit df38da5e2a44ccd895622249f6b82a607bbcff07
+Author: Jamar <jamar0813@gmail.com>
+Date:   Tue Aug 28 17:01:21 2018 -0700
+
+    Initial commit of the explore california website
